@@ -1,4 +1,4 @@
-package MonteCarlo;
+package MonteCarlo.worker;
 
 import java.util.Random;
 

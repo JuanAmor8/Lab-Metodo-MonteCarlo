@@ -1,4 +1,4 @@
-package MonteCarlo;
+package MonteCarlo.master;
 
 public class MasterI implements Master {
     private final WorkerPrx[] workers;  // Proxies de los trabajadores

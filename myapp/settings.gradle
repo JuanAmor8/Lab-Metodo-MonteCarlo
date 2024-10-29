@@ -6,3 +6,6 @@
  */
 
 rootProject.name = 'myapp'
+include 'client'
+include 'master'
+include 'worker'

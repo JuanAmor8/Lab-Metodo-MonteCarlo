@@ -1,4 +1,4 @@
-package MonteCarlo;
+package MonteCarlo.client;
 
 import Ice.Communicator;
 import Ice.ObjectPrx;
