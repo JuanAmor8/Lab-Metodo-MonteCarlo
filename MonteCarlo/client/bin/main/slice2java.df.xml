@@ -1,0 +1,15 @@
+<state>
+  <timestamp value='1730305396548' />
+  <sourceSet name='default'>
+    <source name='C:\Users\User\Desktop\PiMonteCarlo\pi\Piexample.ice'>
+      <file name='C:\Users\User\Desktop\PiMonteCarlo\pi\client\build\generated-src\Demo\Master.java' />
+      <file name='C:\Users\User\Desktop\PiMonteCarlo\pi\client\build\generated-src\Demo\Worker.java' />
+      <file name='C:\Users\User\Desktop\PiMonteCarlo\pi\client\build\generated-src\Demo\MasterPrx.java' />
+      <file name='C:\Users\User\Desktop\PiMonteCarlo\pi\client\build\generated-src\Demo\_MasterPrxI.java' />
+      <file name='C:\Users\User\Desktop\PiMonteCarlo\pi\client\build\generated-src\Demo\WorkerPrx.java' />
+      <file name='C:\Users\User\Desktop\PiMonteCarlo\pi\client\build\generated-src\Demo\_WorkerPrxI.java' />
+    </source>
+    <arg value='C:\Program Files\ZeroC\Ice-3.7.10\\bin\slice2java.exe' />
+    <arg value='-IC:\Program Files\ZeroC\Ice-3.7.10\\slice' />
+  </sourceSet>
+</state>
