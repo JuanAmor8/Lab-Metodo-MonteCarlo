@@ -1,6 +1,6 @@
 ---
 
-# 🌟 Proyecto Master-Worker-Client 🌟
+# 🌟 Proyecto Monte Carlo 🌟
 
 ¡Bienvenido al README del proyecto Master-Worker-Client! Este repositorio contiene las instrucciones necesarias para compilar y ejecutar cada componente del sistema. A continuación, encontrarás todos los pasos para ponerlo en marcha. ¡Esperamos que disfrutes explorando y probando el proyecto! 🚀
 
