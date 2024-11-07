@@ -1,5 +1,3 @@
-Aquí tienes un README mejorado y estilizado para tu proyecto. Incluye una introducción clara, instrucciones detalladas y una estructura atractiva:
-
 ---
 
 # 🌟 Proyecto Master-Worker-Client 🌟
@@ -59,7 +57,7 @@ El sistema está compuesto por tres aplicaciones principales: **Master**, **Work
 ## 📬 Contacto
 
 ¿Tienes preguntas o comentarios? ¡Estamos aquí para ayudar!.
-
++57 321 521 2616
 ---
 
 ¡Gracias por confiar en nuestro proyecto! 🧩
